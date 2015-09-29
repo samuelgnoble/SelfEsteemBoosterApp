@@ -1,2 +1,6 @@
 # SelfEsteemBoosterApp
-An Android App to boost users self-esteem
+---------------------------------------------------------------
+@author Sam Noble
+---------------------------------------------------------------
+
+An Android App to boost users' self-esteem
